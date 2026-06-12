@@ -68,6 +68,7 @@
 * **[Lumen5](https://lumen5.com/)** - Turn blog posts into videos.
 * **[Descript](https://www.descript.com/)** - Video/audio editing with AI voiceover tools.
 * **[ContentBot](https://contentbot.ai/)** - Automate blog-to-social or idea-to-article.
+* **[CreatorSkills](https://creatorskills.co)** - Marketplace of 30+ downloadable AI skills for content creators covering scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Best Practices and Guides
 
