@@ -62,6 +62,7 @@
 * **[Surfer AI](https://surferseo.com/ai/)** - Combines SEO and AI-generated articles.
 * **[Outranking](https://www.outranking.io/)** - Guided SEO writing workflows.
 * **[NeuronWriter](https://neuronwriter.com/)** - Optimized long-form AI content for SEO.
+* **[Screpy AI Article Generator](https://screpy.com/feature/ai-article-generator/)** - Creates editable SEO content drafts, outlines, and briefs from topics and keyword ideas.
 
 ## Content Repurposing
 
