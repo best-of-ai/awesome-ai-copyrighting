@@ -34,6 +34,7 @@
 
 ## Open-Source Projects
 
+* **[Humanize-Text](https://github.com/lynote-ai/humanize-text)** - Python toolkit with four reference text-humanization methods and a configurable multi-engine rewriting pipeline.
 * **[text-generation-webui](https://github.com/oobabooga/text-generation-webui)** - Run LLMs locally in a browser interface.
 * **[gpt-2-simple](https://github.com/minimaxir/gpt-2-simple)** - Easy interface for fine-tuning GPT-2.
 * **[LibreChat](https://github.com/danny-avila/LibreChat)** - ChatGPT-style UI for self-hosted models.
