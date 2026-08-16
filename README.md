@@ -66,6 +66,7 @@
 ## Content Repurposing
 
 * **[Lumen5](https://lumen5.com/)** - Turn blog posts into videos.
+* **[videos.social](https://videos.social/?utm_source=best-of-ai-awesome-ai-copyrighting&utm_medium=directory&utm_campaign=listing-wave-d)** - Turn blogs, PDFs, and prompts into editable faceless videos.
 * **[Descript](https://www.descript.com/)** - Video/audio editing with AI voiceover tools.
 * **[ContentBot](https://contentbot.ai/)** - Automate blog-to-social or idea-to-article.
 
