@@ -50,6 +50,7 @@
 * **[Jasper Templates](https://www.jasper.ai/templates)** - Ad, headline, and CTA copywriting prompts.
 * **[Copy.ai Marketing Templates](https://www.copy.ai/templates/)** - Templates for Facebook, Google, and social media ads.
 * **[Ocoya](https://www.ocoya.com/)** - AI-powered social media scheduling and ad copy generation.
+* **[BulkPublish social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills)** - Agent skills for adapting, reviewing, scheduling, and publishing approved social copy through an API or hosted MCP.
 
 ## Email & Newsletter Copy
 
