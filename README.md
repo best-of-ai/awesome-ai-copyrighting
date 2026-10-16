@@ -28,6 +28,7 @@
 
 * **[Jasper](https://www.jasper.ai/)** - Versatile AI writing assistant for blog posts, emails, and ads.
 * **[Copy.ai](https://www.copy.ai/)** - Popular tool for generating marketing copy and product descriptions.
+* **[ReCopyFast](https://www.recopyfa.st/)** - Lets agencies edit client website copy in place and get AI rewrite suggestions after adding one script tag.
 * **[Writesonic](https://writesonic.com/)** - AI tool for landing pages, blogs, and ad campaigns.
 * **[Anyword](https://anyword.com/)** - Copywriting with performance prediction for different audiences.
 * **[Hypotenuse AI](https://www.hypotenuse.ai/)** - Focused on e-commerce content and product descriptions.
