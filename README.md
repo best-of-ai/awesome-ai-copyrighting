@@ -56,6 +56,7 @@
 * **[Smartwriter](https://www.smartwriter.ai/)** - Personalized cold emails and follow-ups.
 * **[Lavender](https://www.lavender.ai/)** - AI email assistant for improving tone, structure, and engagement.
 * **[ConvertKit + AI](https://convertkit.com/)** - Email marketing platform with AI-enhanced writing tools.
+* **[No Stairs Please MCP](https://nostairsplease.com/mcp)** - Remote MCP server for touring musicians and booking agents to look up verified live-music venue contacts and room details for booking outreach.
 
 ## SEO-Focused Tools
 
